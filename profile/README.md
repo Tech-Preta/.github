@@ -1,14 +1,34 @@
 <h1 align="center">Oi 👋, Eu sou Natália Granato</h1>
 
 
-- 🔭 DevOps and Observability Specialist.
+- 🔭 DevOps and Observability Specialist
 - ✍️ Sempre aprendendo sobre Cloud Native, Kubernetes e Observability.
 - 📫 Você pode me encontrar nas redes [Links](https://linktr.ee/nataliagranato).
-
-
 - 📫 Você pode entrar em contato pelo e-mail: **contato@nataliagranato.xyz**
-
 - 📄 Conheça as minhas experiências [linkedin](https://www.linkedin.com/in/nataliagranato).
+
+### Certificações
+<!-- CERTS-REPO-LIST:START -->
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b9ff7e86-3786-407e-b94a-b9b6172fde24/linked_in_profile) at AWS.
+- [Developing a Google SRE Culture](https://www.cloudskillsboost.google/public_profiles/df64d4ba-83ef-43d1-b240-214ab4ab0f84/badges/4912258?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) at Google.
+- [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2B882F1252D87C1E4A292491BB0FC22F4E96C9E83DC943C01685EF80628332B) at Oracle.
+- [Introduction to GitOps](https://openprofile.dev/profile/natalia.granato) at The Linux Foudation.
+- [Inclusive Speaker Orientation](https://www.credly.com/badges/d8ad453c-f039-4ddf-8585-6e61154d6953/) at The Linux Foudation.
+- [Rancher Basics](https://www.rancher.academy/certificates/ap2kaqy1uh) at Rancher.
+- [Pratical Observability](https://academy.o11y.io/certificates/gtawleeb4d) at o11y.
+- [Container Expert](https://www.credential.net/6d1f3f72-aaad-4534-88a9-d1e2196f5877#gs.640czt) at LINUXtips.
+- [Uncomplicating Terraform](https://www.credential.net/9d1ab436-b4b3-4a89-87cc-df4f34de7d12#gs.640u6k) at LINUXtips.
+- [Uncomplicating DevOps](https://www.credential.net/3d557330-2717-40ef-815e-7f4aae6a1a07#gs.640uq5) at LINUXtips.
+
+<!-- CERTS-REPO-LIST::END -->
+
+### Palestras
+<!-- PALES-REPO-LIST:START -->
+- [EKS em foco: assessement e boas práticas em Kubernetes](https://www.awswomencommunitybrasil.com/trilha-int-avan.html) at AWSome Women Community Summit Brasil 2024 and Tech Hub Conf 2024.
+- K8sGPT - Superpoderes no Kubernetes at Jack Experts.
+- Diversidade e Inclusão nos e-sports at Programaria Summit.
+<!-- PALES-REPO-LIST::END -->
+
 
 ### Projetos
 <!-- PROJETOS-REPO-LIST:START -->
@@ -19,6 +39,15 @@
 - [Packer base](https://github.com/Tech-Preta/packer_base): Uma base para a criação de imagens utilizando Packer, com provisionamento feito através de playbooks do Ansible.
 
 <!-- PROJETOS-REPO-LIST::END -->
+
+### Colaboro com os seguintes projetos Open Source:
+<!-- OPEN-REPO-LIST:START -->
+- [MaaS - Monitoring as a Service](https://github.com/JackExperts/helm-charts/tree/main/charts/maas/0.3.0): deploy automatizado do timescaleDB, Zabbix, Grafana, Rundeck e configuração do Letsencrypt.
+- [Rundeck Metrics Exporter](https://github.com/phsmith/rundeck_exporter): exportas as métricas do Rundeck para o Prometheus.
+- [Helm Chart OCS Inventory for Kubernetes](https://github.com/OCSInventory-NG/helm-charts): é uma solução de gerenciamento e implantação de ativos, agora no Kubernetes.
+
+<!-- OPEN-REPO-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
