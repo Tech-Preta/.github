@@ -10,6 +10,7 @@
 ### Certificações
 <!-- CERTS-REPO-LIST:START -->
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b9ff7e86-3786-407e-b94a-b9b6172fde24/linked_in_profile) at AWS.
+- [FinOps Certified Practitioner](https://www.credly.com/badges/965a8aa3-12fe-40b3-9ea6-173547c4a1b6/linked_in_profile) at The Linux Foudation.
 - [Developing a Google SRE Culture](https://www.cloudskillsboost.google/public_profiles/df64d4ba-83ef-43d1-b240-214ab4ab0f84/badges/4912258?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share) at Google.
 - [Oracle Cloud Infrastructure Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D2B882F1252D87C1E4A292491BB0FC22F4E96C9E83DC943C01685EF80628332B) at Oracle.
 - [Introduction to GitOps](https://openprofile.dev/profile/natalia.granato) at The Linux Foudation.
@@ -24,8 +25,9 @@
 
 ### Palestras
 <!-- PALES-REPO-LIST:START -->
-- [EKS em foco: assessement e boas práticas em Kubernetes](https://www.awswomencommunitybrasil.com/trilha-int-avan.html) at AWSome Women Community Summit Brasil 2024 and Tech Hub Conf 2024.
-- K8sGPT - Superpoderes no Kubernetes at Jack Experts.
+- [EKS em foco: assessement e boas práticas em Kubernetes](https://www.awswomencommunitybrasil.com/trilha-int-avan.html) at AWSome Women Community Summit Brasil 2024.
+- [Assessement e Boas Práticas em Kubernetes](https://pt.slideshare.net/slideshow/assessement-boas-praticas-em-kubernetespdf/267649197) at Tech Hub Conf 2024.
+- [K8sGPT - Superpoderes na Administração Kubernetes](https://pt.slideshare.net/slideshow/k8sgpt-superpoderes-na-administrao-kubernetespptx-1387/267402712) at Jack Experts.
 - Diversidade e Inclusão nos e-sports at Programaria Summit.
 <!-- PALES-REPO-LIST::END -->
 
