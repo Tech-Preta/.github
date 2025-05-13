@@ -2,7 +2,7 @@ I am a CNCF Ambassador and Docker Captain, contributing to Kubernetes and other 
 
 I have extensive experience in CI/CD, collaboration, and experimentation, having assisted public agencies in automating operations, freeing up time for systemic improvements. I promote a culture of collaboration with assertive communication and knowledge sharing.
 
-Currently, as a Site Reliability Engineer, I contribute to building Magalu Cloud, the Brazilian public cloud.
+Currently, as a Plataform Engineer, I contribute to building Magalu Cloud, the Brazilian public cloud.
 
 [Blog](https://www.nataliagranato.xyz) | [Badges](https://www.credly.com/users/nataliagranato) | [Talks](https://speakerdeck.com/nataliagranato) | [Community](https://colabi.io/grupos/kubedevops) | [Projects](https://github.com/nataliagranato) | [Open Profile](https://openprofile.dev/profile/natalia.granato) | [AWS Community](https://community.aws/@nataliagranato) | [DevOpsDays Belo Horizonte](https://www.instagram.com/devopsdaysbhz) | [Cloud Native Juiz de Fora](https://community.cncf.io/cloud-native-juiz-de-fora/) 
 
